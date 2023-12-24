@@ -1,0 +1,1024 @@
+{
+  "data": [
+    {
+      "question": {
+        "en": "I am a round fruit",
+        "de": "Ich bin ein runde frucht"
+      },
+      "hint": [
+        {
+          "en": "I am citrusy",
+          "de": "Ich bin Citrus"
+        },
+        {
+          "en": "My color is my name",
+          "de": "Mein Farbe ist meine Name"
+        }
+      ],
+      "answer": {
+        "en": "orange",
+        "de": "orange"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a sweet, frozen dessert",
+        "de": "Es ist ein süßes, gefrorenes Dessert"
+      },
+      "hint": [
+        {
+          "en": "It comes in various flavors",
+          "de": "Es gibt verschiedene Geschmacksrichtungen"
+        },
+        {
+          "en": "It is often served in a cone or a cup",
+          "de": "Es wird oft in einer Waffel oder einem Becher serviert"
+        }
+      ],
+      "answer": {
+        "en": "ice cream ",
+        "de": "eiscreme"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a traditional German folk festival.",
+        "de": "Es ist ein traditionelles deutsches Volksfest"
+      },
+      "hint": [
+        {
+          "en": "It takes place in Munich.",
+          "de": "Es findet in München statt."
+        },
+        {
+          "en": "It involves beer, food, and amusement rides.",
+          "de": "Es beinhaltet Bier, Essen und Fahrgeschäfte"
+        }
+      ],
+      "answer": {
+        "en": "october fest",
+        "de": "oktoberfest"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a large, four-legged mammal",
+        "de": "Es ist ein großes, vierbeiniges Säugetier"
+      },
+      "hint": [
+        {
+          "en": "It is often domesticated and kept as a pet.",
+          "de": "Es wird oft domestiziert und als Haustier gehalten"
+        },
+        {
+          "en": "It is known for its loyalty and companionship",
+          "de": "Es ist bekannt für seine Treue und Geselligkeit"
+        }
+      ],
+      "answer": {
+        "en": "dog",
+        "de": "hund"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a type of flower",
+        "de": "Es ist eine Art von Blume"
+      },
+      "hint": [
+        {
+          "en": "It is often associated with love and beauty.",
+          "de": "Sie wird oft mit Liebe und Schönheit in Verbindung gebracht"
+        },
+        {
+          "en": "It comes in various colors such as red, pink, and white.",
+          "de": "Sie gibt es in verschiedenen Farben wie Rot, Rosa und Weiß"
+        }
+      ],
+      "answer": {
+        "en": "rose",
+        "de": "rose"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a small, yellow fruit.",
+        "de": "Es ist eine kleine, gelbe Frucht"
+      },
+      "hint": [
+        {
+          "en": "It is sour in taste.",
+          "de": "Es ist sauer im Geschmack."
+        },
+        {
+          "en": "It is often used to make lemonade.",
+          "de": "Es wird oft verwendet, um Limonade herzustellen"
+        }
+      ],
+      "answer": {
+        "en": "lemon",
+        "de": "zitron"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German car manufacturer",
+        "de": "Es ist ein deutscher Automobilhersteller."
+      },
+      "hint": [
+        {
+          "en": "It is known for its luxury vehicles.",
+          "de": "Es ist bekannt für seine Luxusfahrzeuge"
+        },
+        {
+          "en": "Its headquarters are located in Stuttgart.",
+          "de": "Der Hauptsitz befindet sich in Stuttgart"
+        }
+      ],
+      "answer": {
+        "en": "mercedes-benz",
+        "de": "mercedes-benz"
+      }
+    },
+    {
+      "question": {
+        "en": "I am a animal",
+        "de": "Ich bin ein tier"
+      },
+      "hint": [
+        {
+          "en": "Biggest Mammal on Land",
+          "de": "Ich bin am grossten mammal"
+        },
+        {
+          "en": "I am usually gray",
+          "de": "Mein Farbe ist gray"
+        }
+      ],
+      "answer": {
+        "en": "elephant",
+        "de": "elefant"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a famous German castle.",
+        "de": "Es ist eine berühmte deutsche Burg."
+      },
+      "hint": [
+        {
+          "en": "It is located in Bavaria..",
+          "de": "Sie befindet sich in Bayern."
+        },
+        {
+          "en": "It inspired the design of Disney's Sleeping Beauty Castle.",
+          "de": "Sie diente als Inspiration für das Design des Dornröschenschlosses in Disney."
+        }
+      ],
+      "answer": {
+        "en": "neuschwanstein ",
+        "de": "neuschwanstein"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German city famous for its cathedral.",
+        "de": "Es ist eine deutsche Stadt, berühmt für ihre Kathedrale"
+      },
+      "hint": [
+        {
+          "en": "It is located on the Rhine River",
+          "de": "Sie liegt am Rhein."
+        },
+        {
+          "en": "It is known for its vibrant carnival celebrations.",
+          "de": "Sie ist bekannt für ihre lebendigen Karnevalsfeiern"
+        }
+      ],
+      "answer": {
+        "en": "cologne",
+        "de": "köln"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German festival celebrating the arrival of spring",
+        "de": "Es ist ein deutsches Fest, das die Ankunft des Frühlings feiert."
+      },
+      "hint": [
+        {
+          "en": "It involves colorful parades, costumes, and music.",
+          "de": "Es beinhaltet bunte Paraden, Kostüme und Musik."
+        },
+        {
+          "en": "It is particularly popular in the Rhineland region.",
+          "de": "Es ist besonders beliebt in der Region Rheinland."
+        }
+      ],
+      "answer": {
+        "en": "carnival",
+        "de": "karneval"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German composer and pianist.",
+        "de": "Er ist ein deutscher Komponist und Pianist"
+      },
+      "hint": [
+        {
+          "en": "He composed famous works like Für Elise and Moonlight Sonata.",
+          "de": "Er komponierte berühmte Werke wie Für Elise und Mondscheinsonate."
+        },
+        {
+          "en": "He was born in Bonn.",
+          "de": "Er wurde in Bonn geboren."
+        }
+      ],
+      "answer": {
+        "en": "ludwig van Beethoven",
+        "de": "ludwig van Beethoven"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German city known for its automotive industry.",
+        "de": "Es ist eine deutsche Stadt, bekannt für ihre Automobilindustrie."
+      },
+      "hint": [
+        {
+          "en": "It is home to major car manufacturers like Volkswagen and Porsche.",
+          "de": "Sie ist die Heimat großer Automobilhersteller wie Volkswagen und Porsche."
+        },
+        {
+          "en": "It is located in the state of Lower Saxony.",
+          "de": "Sie liegt in Niedersachsen."
+        }
+      ],
+      "answer": {
+        "en": "wolfsburg",
+        "de": "wolfsburg"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German dish made of sausages and mashed potatoes.",
+        "de": "Es ist ein deutsches Gericht aus Würstchen und Kartoffelpüree."
+      },
+      "hint": [
+        {
+          "en": "It is often served with sauerkraut and mustard.",
+          "de": "Es wird oft mit Sauerkraut und Senf serviert."
+        },
+        {
+          "en": "It is a popular street food in Germany.",
+          "de": "Es ist ein beliebter Streetfood-Snack in Deutschland."
+        }
+      ],
+      "answer": {
+        "en": "currywurst",
+        "de": "currywurst"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German electronic music band.",
+        "de": "Es ist eine deutsche elektronische Musikband."
+      },
+      "hint": [
+        {
+          "en": "Their hits include Autobahn and The Model.",
+          "de": "Ihre Hits sind unter anderem Autobahn und The Model."
+        },
+        {
+          "en": "They are considered pioneers of the genre. ",
+          "de": "Sie gelten als Pioniere des Genres."
+        }
+      ],
+      "answer": {
+        "en": "kraftwerk",
+        "de": "kraftwerk"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a famous German soccer club. ",
+        "de": "Es ist ein berühmter deutscher Fußballverein."
+      },
+      "hint": [
+        {
+          "en": "It is based in Munich. ",
+          "de": "Es hat seinen Sitz in München."
+        },
+        {
+          "en": "It has won numerous domestic and international titles.  ",
+          "de": "Es hat zahlreiche nationale und internationale Titel gewonnen"
+        }
+      ],
+      "answer": {
+        "en": "fc bayern munich",
+        "de": "fc bayern münchen"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German word that means \"health.\" ",
+        "de": "Es ist ein deutsches Wort, das \"Gesundheit\" bedeutet."
+      },
+      "hint": [
+        {
+          "en": "It is often used as a toast or a blessing. ",
+          "de": "Es wird oft als Trinkspruch oder Segenswunsch verwendet."
+        },
+        {
+          "en": "It is commonly said before taking a drink.  ",
+          "de": "Es wird üblicherweise vor dem Trinken gesagt"
+        }
+      ],
+      "answer": {
+        "en": "Prost",
+        "de": "Prost"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular German beverage.",
+        "de": "Es ist ein beliebtes deutsches beir."
+      },
+      "hint": [
+        {
+          "en": "It is a wheat beer. ",
+          "de": "Sein Hauptbestandteil ist Weizen"
+        },
+        {
+          "en": "It is often served with a slice of lemon or orange  ",
+          "de": "Es wird oft mit einer Scheibe Zitrone oder Orange serviert."
+        }
+      ],
+      "answer": {
+        "en": "Weissbier",
+        "de": "Weissbier"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a German city known for its historic beer gardens.",
+        "de": "Es ist eine deutsche Stadt, bekannt für ihre historischen Biergärten."
+      },
+      "hint": [
+        {
+          "en": "It is located in Bavaria. ",
+          "de": "Sie liegt in Bayern."
+        },
+        {
+          "en": "It is famous for its annual beer festival, Oktoberfest.",
+          "de": "Sie ist berühmt für ihr jährliches Bierfest, das Oktoberfest."
+        }
+      ],
+      "answer": {
+        "en": "Munich",
+        "de": "München"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular board game involving strategy and resource management.",
+        "de": "Es ist ein beliebtes Brettspiel, das Strategie und Ressourcenmanagement erfordert."
+      },
+      "hint": [
+        {
+          "en": "It is played on a square board divided into a grid of squares.",
+          "de": "Es wird auf einem quadratischen Brett gespielt, das in ein Raster von Quadraten unterteilt ist."
+        },
+        {
+          "en": "The objective is to control territories and defeat opponents.",
+          "de": "Das Ziel besteht darin, Gebiete zu kontrollieren und Gegner zu besiegen."
+        }
+      ],
+      "answer": {
+        "en": "Chess",
+        "de": "Schach"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular Italian dish made with thin, round dough topped with various ingredients.",
+        "de": "Es ist ein beliebtes italienisches Gericht, das aus dünnem, rundem Teig besteht und mit verschiedenen Zutaten belegt wird."
+      },
+      "hint": [
+        {
+          "en": "It is often baked in a hot oven.",
+          "de": "Es wird oft in einem heißen Ofen gebacken."
+        },
+        {
+          "en": "It comes in different flavors such as Margherita, Pepperoni, and Hawaiian.",
+          "de": "Es gibt verschiedene Geschmacksrichtungen wie Margherita, Pepperoni und Hawaiian."
+        }
+      ],
+      "answer": {
+        "en": "Pizza",
+        "de": "Pizza"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular Mexican dish made with a tortilla folded around a filling.",
+        "de": "Es ist ein beliebtes mexikanisches Gericht, das aus einer Tortilla besteht, die um eine Füllung gefaltet wird."
+      },
+      "hint": [
+        {
+          "en": "It can be filled with ingredients like meat, cheese, beans, and vegetables.",
+          "de": "Es kann mit Zutaten wie Fleisch, Käse, Bohnen und Gemüse gefüllt werden."
+        },
+        {
+          "en": "It is often served with salsa, guacamole, or sour cream.",
+          "de": "Es wird oft mit Salsa, Guacamole oder Sauerrahm serviert."
+        }
+      ],
+      "answer": {
+        "en": "Burrito",
+        "de": "Burrito"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular outdoor activity that involves walking in natural environments.",
+        "de": "Es ist eine beliebte Freizeitaktivität, die das Wandern in natürlicher Umgebung beinhaltet."
+      },
+      "hint": [
+        {
+          "en": "It often takes place in forests, mountains, or national parks.",
+          "de": "Es findet oft in Wäldern, Bergen oder Nationalparks statt."
+        },
+        {
+          "en": "People often carry backpacks and wear sturdy shoes or boots.",
+          "de": "Die Leute tragen oft Rucksäcke und tragen robuste Schuhe oder Stiefel."
+        }
+      ],
+      "answer": {
+        "en": "Hiking",
+        "de": "Wandern"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a famous landmark in France, known for its iconic iron lattice structure.",
+        "de": "Es ist ein berühmtes Wahrzeichen in Frankreich, bekannt für seine ikonische Eisengitterstruktur."
+      },
+      "hint": [
+        {
+          "en": "It is located in the capital city of Paris.",
+          "de": "Es befindet sich in der Hauptstadt Paris."
+        },
+        {
+          "en": "It offers stunning views of the city from its observation decks.",
+          "de": "Es bietet atemberaubende Aussicht auf die Stadt von seinen Aussichtsplattformen."
+        }
+      ],
+      "answer": {
+        "en": "Eiffel Tower",
+        "de": "Eiffelturm"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a classic novel by Jane Austen, known for its witty social commentary.",
+        "de": "Es ist ein klassischer Roman von Jane Austen, bekannt für seinen geistreichen sozialen Kommentar."
+      },
+      "hint": [
+        {
+          "en": "It follows the story of the Bennet sisters and their pursuit of love and marriage.",
+          "de": "Es erzählt die Geschichte der Bennet-Schwestern und ihres Strebens nach Liebe und Heirat."
+        },
+        {
+          "en": "It was first published in 1813 and has since become a beloved literary work.",
+          "de": "Es wurde erstmals 1813 veröffentlicht und ist seitdem zu einem geliebten literarischen Werk geworden."
+        }
+      ],
+      "answer": {
+        "en": "Pride and Prejudice",
+        "de": "Stolz und Vorurteil"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a famous painting by Leonardo da Vinci, known for its enigmatic smile.",
+        "de": "Es ist ein berühmtes Gemälde von Leonardo da Vinci, bekannt für sein rätselhaftes Lächeln."
+      },
+      "hint": [
+        {
+          "en": "It is currently housed in the Louvre Museum in Paris.",
+          "de": "Es befindet sich derzeit im Louvre Museum in Paris."
+        },
+        {
+          "en": "It is believed to portray Lisa Gherardini, an Italian noblewoman.",
+          "de": "Es wird angenommen, dass es Lisa Gherardini, eine italienische Adlige, darstellt."
+        }
+      ],
+      "answer": {
+        "en": "Mona Lisa",
+        "de": "Mona Lisa"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular fruit known for its yellow color and sweet taste.",
+        "de": "Es ist eine beliebte Frucht, bekannt für ihre gelbe Farbe und ihren süßen Geschmack."
+      },
+      "hint": [
+        {
+          "en": "It is often peeled and eaten fresh or used in various recipes.",
+          "de": "Es wird oft geschält und frisch gegessen oder in verschiedenen Rezepten verwendet."
+        },
+        {
+          "en": "It is a good source of vitamin C and potassium.",
+          "de": "Es ist eine gute Quelle für Vitamin C und Kalium."
+        }
+      ],
+      "answer": {
+        "en": "Banana",
+        "de": "Banane"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular holiday celebrated on December 25th.",
+        "de": "Es ist ein beliebter Feiertag, der am 25. Dezember gefeiert wird."
+      },
+      "hint": [
+        {
+          "en": "It is associated with gift-giving, festive decorations, and Santa Claus.",
+          "de": "Es wird mit Geschenken, festlichen Dekorationen und dem Weihnachtsmann in Verbindung gebracht."
+        },
+        {
+          "en": "Families often gather for a special meal and exchange presents.",
+          "de": "Familien treffen sich oft zu einem besonderen Essen und tauschen Geschenke aus."
+        }
+      ],
+      "answer": {
+        "en": "Christmas",
+        "de": "Weihnachten"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular puzzle toy invented by Hungarian architect Ernő Rubik.",
+        "de": "Es ist ein beliebtes Puzzle-Spielzeug, erfunden vom ungarischen Architekten Ernő Rubik."
+      },
+      "hint": [
+        {
+          "en": "It consists of a 3x3x3 cube with each face divided into nine smaller squares.",
+          "de": "Es besteht aus einem 3x3x3-Würfel, dessen Seiten in neun kleinere Quadrate unterteilt sind."
+        },
+        {
+          "en": "The goal is to twist and turn the cube until each face is a solid color.",
+          "de": "Das Ziel besteht darin, den Würfel zu drehen und zu verdrehen, bis jede Seite eine einheitliche Farbe hat."
+        }
+      ],
+      "answer": {
+        "en": "Rubik's Cube",
+        "de": "Rubik's Cube"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular Japanese martial art that emphasizes strikes, kicks, and grappling techniques.",
+        "de": "Es ist eine beliebte japanische Kampfkunst, die Schläge, Tritte und Bodenkampftechniken betont."
+      },
+      "hint": [
+        {
+          "en": "It involves both standing and ground fighting techniques.",
+          "de": "Es umfasst sowohl stehende als auch Bodenkampftechniken."
+        },
+        {
+          "en": "It is known for its efficiency and effectiveness in self-defense situations.",
+          "de": "Es ist für seine Effizienz und Wirksamkeit in Selbstverteidigungssituationen bekannt."
+        }
+      ],
+      "answer": {
+        "en": "Karate",
+        "de": "Karate"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular snack made from corn kernels that are heated and popped.",
+        "de": "Es ist ein beliebter Snack aus Maiskörnern, die erhitzt und aufgepoppt werden."
+      },
+      "hint": [
+        {
+          "en": "It is often flavored with salt, butter, caramel, or cheese.",
+          "de": "Es wird oft mit Salz, Butter, Karamell oder Käse gewürzt."
+        },
+        {
+          "en": "It is commonly enjoyed while watching movies or attending sporting events.",
+          "de": "Es wird oft beim Ansehen von Filmen oder bei Sportveranstaltungen genossen."
+        }
+      ],
+      "answer": {
+        "en": "Popcorn",
+        "de": "Popcorn"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular device used for listening to music and making phone calls.",
+        "de": "Es ist ein beliebtes Gerät zum Musikhören und Telefonieren."
+      },
+      "hint": [
+        {
+          "en": "Fits in your pocket.",
+          "de": "Passt in deine Tasche."
+        },
+        {
+          "en": "Has wireless headphones.",
+          "de": "Hat kabellose Kopfhörer."
+        }
+      ],
+      "answer": {
+        "en": "Smartphone",
+        "de": "Smartphone"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular accessory worn on the wrist to track time.",
+        "de": "Es ist ein beliebtes Accessoire, das am Handgelenk getragen wird, um die Zeit zu messen."
+      },
+      "hint": [
+        {
+          "en": "Tick-tock.",
+          "de": "Ticken und Tacken."
+        },
+        {
+          "en": "Can also display date and other features.",
+          "de": "Kann auch das Datum und andere Funktionen anzeigen."
+        }
+      ],
+      "answer": {
+        "en": "Watch",
+        "de": "Uhr"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular mode of transportation with two wheels and pedals.",
+        "de": "Es ist ein beliebtes Transportmittel mit zwei Rädern und Pedalen."
+      },
+      "hint": [
+        {
+          "en": "Pedal-powered.",
+          "de": "Durch Treten angetrieben."
+        },
+        {
+          "en": "Healthy and eco-friendly.",
+          "de": "Gesund und umweltfreundlich."
+        }
+      ],
+      "answer": {
+        "en": "Bicycle",
+        "de": "Fahrrad"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular animal known for its meowing and independent nature.",
+        "de": "Es ist ein beliebtes Tier, bekannt für sein Miauen und seine unabhängige Natur."
+      },
+      "hint": [
+        {
+          "en": "Has sharp claws and whiskers.",
+          "de": "Hat scharfe Krallen und Schnurrhaare."
+        },
+        {
+          "en": "Commonly kept as a pet.",
+          "de": "Wird häufig als Haustier gehalten."
+        }
+      ],
+      "answer": {
+        "en": "Cat",
+        "de": "Katze"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular instrument that is played by blowing air into it.",
+        "de": "Es ist ein beliebtes Instrument, das durch Einblasen von Luft gespielt wird."
+      },
+      "hint": [
+        {
+          "en": "Produces melodious sounds.",
+          "de": "Erzeugt melodiöse Klänge."
+        },
+        {
+          "en": "Commonly used in orchestras.",
+          "de": "Wird häufig in Orchestern verwendet."
+        }
+      ],
+      "answer": {
+        "en": "Flute",
+        "de": "Flöte"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular vegetable with a long, orange root that is commonly eaten cooked or raw.",
+        "de": "Es ist ein beliebtes Gemüse mit einer langen, orangefarbenen Wurzel, das oft gekocht oder roh gegessen wird."
+      },
+      "hint": [
+        {
+          "en": "Crunchy and nutritious.",
+          "de": "Knackig und nahrhaft."
+        },
+        {
+          "en": "Can be used in salads or as a side dish.",
+          "de": "Kann in Salaten oder als Beilage verwendet werden."
+        }
+      ],
+      "answer": {
+        "en": "Carrot",
+        "de": "Karotte"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular musical instrument that is played by plucking or strumming its strings.",
+        "de": "Es ist ein beliebtes Musikinstrument, das durch Zupfen oder Anschlagen seiner Saiten gespielt wird."
+      },
+      "hint": [
+        {
+          "en": "Creates melodic tunes.",
+          "de": "Erzeugt melodische Klänge."
+        },
+        {
+          "en": "Commonly used in folk and pop music.",
+          "de": "Wird häufig in Folk- und Popmusik verwendet."
+        }
+      ],
+      "answer": {
+        "en": "Guitar",
+        "de": "Gitarre"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular season characterized by hot weather and longer days.",
+        "de": "Es ist eine beliebte Jahreszeit, gekennzeichnet durch heiße Temperaturen und längere Tage."
+      },
+      "hint": [
+        {
+          "en": "Sunshine and beach trips.",
+          "de": "Sonnenschein und Strandausflüge."
+        },
+        {
+          "en": "People often go swimming and have picnics.",
+          "de": "Die Menschen gehen oft schwimmen und haben Picknicks."
+        }
+      ],
+      "answer": {
+        "en": "Summer",
+        "de": "Sommer"
+      }
+    },
+    {
+      "question": {
+        "en": "It is an ancient structure found in Egypt, known for its triangular shape.",
+        "de": "Es ist eine antike Struktur in Ägypten, bekannt für ihre dreieckige Form."
+      },
+      "hint": [
+        {
+          "en": "Built as monumental tombs.",
+          "de": "Als monumentale Grabstätten errichtet."
+        },
+        {
+          "en": "Includes famous ones like Giza and Sphinx.",
+          "de": "Enthält berühmte wie Gizeh und Sphinx."
+        }
+      ],
+      "answer": {
+        "en": "Pyramid",
+        "de": "Pyramide"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a country in Central Europe known for its rich history and culture.",
+        "de": "Es ist ein Land in Mitteleuropa, bekannt für seine reiche Geschichte und Kultur."
+      },
+      "hint": [
+        {
+          "en": "Berlin is the capital.",
+          "de": "Berlin ist die Hauptstadt."
+        },
+        {
+          "en": "Famous for Oktoberfest and bratwurst.",
+          "de": "Berühmt für das Oktoberfest und Bratwurst."
+        }
+      ],
+      "answer": {
+        "en": "Germany",
+        "de": "Deutschland"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a country located in the heart of Europe, known for its picturesque landscapes.",
+        "de": "Es ist ein Land im Herzen Europas, bekannt für seine malerischen Landschaften."
+      },
+      "hint": [
+        {
+          "en": "Zurich is a major city.",
+          "de": "Zürich ist eine  Stadt."
+        },
+        {
+          "en": "Famous for Swiss chocolates and watches.",
+          "de": "Berühmt für Schweizer Schokolade und Uhren."
+        }
+      ],
+      "answer": {
+        "en": "Switzerland",
+        "de": "Schweiz"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a continent known for its diverse cultures, languages, and historical heritage.",
+        "de": "Es ist ein Kontinent, bekannt für seine vielfältigen Kulturen, Sprachen und historisches Erbe."
+      },
+      "hint": [
+        {
+          "en": "Home to famous landmarks like the Eiffel Tower and Colosseum.",
+          "de": "Heimat berühmter Wahrzeichen wie dem Eiffelturm und dem Kolosseum."
+        },
+        {
+          "en": "Consists of many countries.",
+          "de": "Besteht aus vielen Ländern."
+        }
+      ],
+      "answer": {
+        "en": "Europe",
+        "de": "Europa"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a season characterized by cold weather, snow, and shorter daylight hours.",
+        "de": "Es ist eine Jahreszeit, die durch kaltes Wetter, Schnee und kürzere Tageslichtstunden gekennzeichnet ist."
+      },
+      "hint": [
+        {
+          "en": "Occurs after autumn and before spring.",
+          "de": "Kommt nach dem Herbst und vor dem Frühling."
+        },
+        {
+          "en": "Associated with holidays like Christmas and New Year.",
+          "de": "Verbunden mit Feiertagen wie Weihnachten und Neujahr."
+        }
+      ],
+      "answer": {
+        "en": "Winter",
+        "de": "Winter"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a traditional warm beverage commonly enjoyed during the winter season.",
+        "de": "Es ist ein traditionelles warmes Getränk, das in der Winterzeit gerne genossen wird."
+      },
+      "hint": [
+        {
+          "en": "Made with red wine, spices, and citrus fruits.",
+          "de": "Hergestellt aus Rotwein, Gewürzen und Zitrusfrüchten."
+        },
+        {
+          "en": "A popular drink at Christmas markets and winter festivals.",
+          "de": "Ein beliebtes Getränk auf Weihnachtsmärkten und Winterfestivals."
+        }
+      ],
+      "answer": {
+        "en": "Gluhwein",
+        "de": "Glühwein"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a federal state in Germany located in the northwest part of the country.",
+        "de": "Es ist ein Bundesland in Deutschland und liegt im nordwestlichen Teil des Landes."
+      },
+      "hint": [
+        {
+          "en": "Includes cities like Hanover and Brunswick.",
+          "de": "Enthält Städte wie Hannover und Braunschweig."
+        },
+        {
+          "en": "Home to the Harz Mountains and the Lüneburg Heath.",
+          "de": "Heimat des Harzes und der Lüneburger Heide."
+        }
+      ],
+      "answer": {
+        "en": "Lower Saxony",
+        "de": "Niedersachsen"
+      }
+    },
+    {
+      "question": {
+        "en": "He is a legendary Formula One racing driver, known for his record-breaking career.",
+        "de": "Er ist ein legendärer Formel-1-Rennfahrer, bekannt für seine rekordverdächtige Karriere."
+      },
+      "hint": [
+        {
+          "en": "Won seven World Championships.",
+          "de": "Gewann sieben Weltmeisterschaften."
+        },
+        {
+          "en": "Holds numerous records in the sport.",
+          "de": "Hält zahlreiche Rekorde in der Sportart."
+        }
+      ],
+      "answer": {
+        "en": "Michael Schumacher",
+        "de": "Michael Schumacher"
+      }
+    },
+    {
+      "question": {
+        "en": "She is a prominent politician who served as the Chancellor of Germany for 16 years.",
+        "de": "Sie ist eine herausragende Politikerin, die 16 Jahre lang als Bundeskanzlerin von Deutschland diente."
+      },
+      "hint": [
+        {
+          "en": "Longest-serving Chancellor in German history.",
+          "de": "Längste Amtszeit einer Kanzlerin in der deutschen Geschichte."
+        },
+        {
+          "en": "Known for her leadership during the European financial crisis and migration issues.",
+          "de": "Bekannt für ihre Führung während der europäischen Finanzkrise und der Migrationsfrage."
+        }
+      ],
+      "answer": {
+        "en": "Angela Merkel",
+        "de": "Angela Merkel"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a popular seasonal attraction where people gather to enjoy festive shopping and traditional delicacies.",
+        "de": "Es ist eine beliebte saisonale Attraktion, bei der sich Menschen zum festlichen Einkauf und zum Genuss traditioneller Köstlichkeiten treffen."
+      },
+      "hint": [
+        {
+          "en": "Features wooden stalls selling crafts, ornaments, and local specialties.",
+          "de": "Bietet Holzstände, die Handwerkskunst, Schmuck und lokale Spezialitäten verkaufen."
+        },
+        {
+          "en": "A highlight of the holiday season in many cities and towns.",
+          "de": "Ein Höhepunkt der Weihnachtszeit in vielen Städten und Gemeinden."
+        }
+      ],
+      "answer": {
+        "en": "Christmas Market",
+        "de": "Weihnachtsmarkt"
+      }
+    },
+    {
+      "question": {
+        "en": "It was a barrier that divided Berlin for decades, symbolizing the division between East and West.",
+        "de": "Es war eine Barriere, die Berlin jahrzehntelang teilte und die Teilung zwischen Ost und West symbolisierte."
+      },
+      "hint": [
+        {
+          "en": "Constructed in 1961 and dismantled in 1989.",
+          "de": "Errichtet 1961 und abgebaut 1989."
+        },
+        {
+          "en": "Separated families and restricted movement between the two sides of the city.",
+          "de": "Trennte Familien und beschränkte die Bewegung zwischen den beiden Seiten der Stadt."
+        }
+      ],
+      "answer": {
+        "en": "Berlin Wall",
+        "de": "Berliner Mauer"
+      }
+    },
+    {
+      "question": {
+        "en": "It is a well-known German automobile manufacturer, recognized for producing a wide range of vehicles.",
+        "de": "Es ist ein bekannter deutscher Automobilhersteller, der für die Produktion einer Vielzahl von Fahrzeugen bekannt ist."
+      },
+      "hint": [
+        {
+          "en": "Founded in 1937.",
+          "de": "Gegründet 1937."
+        },
+        {
+          "en": "Famous models include the Beetle, Golf, and Passat.",
+          "de": "Berühmte Modelle sind der Käfer, Golf und Passat."
+        }
+      ],
+      "answer": {
+        "en": "Volkswagen",
+        "de": "Volkswagen"
+      }
+    }
+  ]
+}

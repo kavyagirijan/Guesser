@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guesser</string>
+    <string name="score_en">Score: %d</string>
+    <string name="point_en">Point: %d</string>
+    <string name="next_hint_en">Available Hints (%d)</string>
+    <string name="question_count_en">Question: %1$d / %2$d</string>
+    <string name="time_left_en">%d</string>
+
+    <string name="score_de">Ergebnis: %d</string>
+    <string name="point_de">Punkten: %d</string>
+    <string name="next_hint_de">Verfugbar Hinweise (%d)</string>
+    <string name="question_count_de"> Frage: %1$d / %2$d</string>
+    <string name="time_left_de">%d</string>
+</resources>
